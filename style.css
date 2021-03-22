@@ -1,0 +1,22 @@
+body {
+background-color: #fee3ff;
+margin: 20px 40px 60px 50px;
+}
+div {
+padding: 5px;
+width: 1200px;
+}
+h1, h2, h3, h4, h5, h6 {
+margin: 0;
+}
+#navigation {
+float: left;
+width: 550px;
+}
+#content {
+float: left;
+width: 530px;
+}
+#footer {
+clear: both;
+}
